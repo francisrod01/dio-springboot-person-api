@@ -4,7 +4,7 @@ This project is part of **CodeAnywhere bootcamp** through the **Digital Innovati
 
 Author: [Francis Rodrigues](https://github.com/francisrod01)
 
-> Aprenda a construir uma API REST com Spring Boot para cadastro e gerenciamento de pessoas de uma organização. [@Rodrigo Peleas]()
+> Aprenda a construir uma API REST com Spring Boot para cadastro e gerenciamento de pessoas de uma organização. [@Rodrigo Peleias](https://github.com/rpeleias)
 
 Abordamos os seguintes tópicos:
 
